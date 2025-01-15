@@ -54,7 +54,6 @@ form {
   padding-bottom: 20vh;
   display: flex;
   flex-direction: column;
-  margin-top: 9rem;
   overflow: auto;
   height: 57vh;
 }
